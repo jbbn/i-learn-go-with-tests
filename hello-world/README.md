@@ -5,5 +5,9 @@
 ## Run
 
 ```bash
+# run program
 go run hello.go
+
+# run tests
+go test
 ```
